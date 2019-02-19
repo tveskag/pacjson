@@ -1,0 +1,14 @@
+{
+  "name": "packagejson",
+  "version": "0.0.0",
+  "description": "outputs info about packages in package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pacjson": "bin/cli.js"
+  },
+  "author": "Asger Viggo",
+  "license": "ISC"
+}
