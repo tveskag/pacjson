@@ -1,6 +1,6 @@
 {
-  "name": "packagejson",
-  "version": "0.0.0",
+  "name": "json-package-linter",
+  "version": "0.0.1",
   "description": "outputs info about packages in package.json",
   "main": "index.js",
   "scripts": {
